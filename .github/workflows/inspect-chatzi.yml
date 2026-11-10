@@ -1,0 +1,13 @@
+name: Inspect bonus settings
+on:
+  push:
+    paths:
+      - 'scripts/inspect-chatzi.py'
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/inspect-chatzi.py
