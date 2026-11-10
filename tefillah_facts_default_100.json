@@ -1,0 +1,702 @@
+[
+  {
+    "id": "tefillah-fact-001",
+    "text": "‎⁧מוֹדֶה אֲנִי⁩ - We thank ⁧ה׳⁩ for returning our ⁧נְשָׁמָה⁩.",
+    "order": 1,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-002",
+    "text": "‎⁧רֵאשִׁית חָכְמָה⁩ - 1st step in wisdom is fearing Hashem.",
+    "order": 2,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-003",
+    "text": "‎⁧צִיצִית⁩ - Since ⁧צִיצִית⁩ isn’t worn at night, it’s a time-related ⁧מצוה⁩ and therefore not worn by women.",
+    "order": 3,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-004",
+    "text": "‎⁧מה טובו אהליך⁩ - ⁧אהליך⁩ is talking about “tents” of learning and Davening.",
+    "order": 4,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-005",
+    "text": "‎⁧אדון עולם⁩ - We say how great Hashem is and how Hashem is always at our side.",
+    "order": 5,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-006",
+    "text": "‎⁧יגדל⁩ - Talks about how Hashem creates and guides everything in this world.",
+    "order": 6,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-007",
+    "text": "‎⁧אשר יצר⁩ - Hashem allows our body to work perfectly!",
+    "order": 7,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-008",
+    "text": "‎⁧והערב נא⁩ - Please make the ⁧תורה⁩ sweet for us!",
+    "order": 8,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-009",
+    "text": "‎⁧אשר בחר בנו⁩ - Thank you Hashem for choosing us to accept your ⁧תורה⁩!",
+    "order": 9,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-010",
+    "text": "‎⁧אלו דברים⁩ - ⁧יברכך⁩: After the ⁧ברכה⁩ on the ⁧תורה⁩ we learn a bit of ⁧תורה⁩ right away so there should be no break between the ⁧ברכה⁩ and the ⁧תורה⁩. (Just like when we make a ⁧ברכה⁩ on a doughnut we eat it right away so there should be no break.)",
+    "order": 10,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-011",
+    "text": "‎⁧אשר נתו לשכוי בינה⁩ - We have the understanding to differentiate between day & night.",
+    "order": 11,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-012",
+    "text": "‎⁧שלא עשני גוי⁩ - That we are a Yid.",
+    "order": 12,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-013",
+    "text": "‎⁧שלא עשני עבד⁩ - Thank you Hashem, for making us free and not slaves and now we can do all ⁧מצוות⁩.",
+    "order": 13,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-014",
+    "text": "‎⁧שלא עשני אשה⁩ - Thank you Hashem, that we are men & have more ⁧מצוות⁩ than women.",
+    "order": 14,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-015",
+    "text": "‎⁧פוקח עורים⁩ - Thank you Hashem, for giving us eyes that we can see with.",
+    "order": 15,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-016",
+    "text": "‎⁧מלביש ערומים⁩ - Thank you Hashem, that we have clothEs to wear.",
+    "order": 16,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-017",
+    "text": "‎⁧מתיר אסורים⁩ - Thank you Hashem, that we can move around.",
+    "order": 17,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-018",
+    "text": "‎⁧זוקף כפופים⁩ - Thank you Hashem, that we can stand upright.",
+    "order": 18,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-019",
+    "text": "‎⁧רוקע הארץ על המים⁩ - Thank you Hashem, that the land stays still on top of the water.",
+    "order": 19,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-020",
+    "text": "‎⁧שעשה לי כל צרכי⁩ - Thank you Hashem, that we have shoes to wear.",
+    "order": 20,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-021",
+    "text": "‎⁧המכין מצעדי גבר⁩ - Thank you Hashem, that we have the strength to walk & that ⁧ה׳⁩ leads every step we take.",
+    "order": 21,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-022",
+    "text": "‎⁧אוזר ישראל בגבורה⁩ - Thank you Hashem, for giving the Yidden strength.",
+    "order": 22,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-023",
+    "text": "‎⁧עוטר ישראל בתפארה⁩ - Thank you Hashem, for giving the Yidden glory (a yarmulke).",
+    "order": 23,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-024",
+    "text": "‎⁧הנותן ליעף כח⁩ - Thank you Hashem, for giving strength to people who are tired.",
+    "order": 24,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-025",
+    "text": "‎⁧הרחיקנו מאדם רע⁩ - Please don’t let us go close to bad people.",
+    "order": 25,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-026",
+    "text": "‎⁧ולא לידי חטא⁩ - Hashem please help us not to do ⁧עבירות⁩.",
+    "order": 26,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-027",
+    "text": "‎⁧ובשמעים טובים⁩ - Hashem please allow us to do many good actions by helping other people.",
+    "order": 27,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-028",
+    "text": "‎⁧יהי רצון⁩ - This ⁧תפלה⁩ was said by ⁧ר' יהודה הנשיא⁩ everyday. The same person who put all the ⁧משניות⁩ together. It’s a ⁧תפלה⁩ that ⁧ה׳⁩ should protect us when dealing with people throughout the day.",
+    "order": 28,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-029",
+    "text": "‎⁧ברוך שאמר⁩ - Was written down by the ⁧אנשי כנסת הגדולה⁩. It contains 87 words equal to the value of the word ⁧פז⁩ which means fine gold, this ⁧תפלה⁩ is beautiful as gold.",
+    "order": 29,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-030",
+    "text": "‎⁧ברוך שאמר⁩ - We praise Hashem for creating the world and continuously running it!",
+    "order": 30,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-031",
+    "text": "‎⁧אשרי⁩ - Anyone who says⁧אשרי⁩ three times a day properly is promised a portion in ⁧עולם הבא⁩!",
+    "order": 31,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-032",
+    "text": "‎⁧אשרי⁩ is written in the order of the ⁧אלף⁩-⁧בית⁩.",
+    "order": 32,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-033",
+    "text": "‎The only letter missing is ⁧נ⁩ because the word ⁧נפל⁩ which means fall (referring to the ⁧בית המקדש⁩) starts with a ⁧נ⁩.",
+    "order": 33,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-034",
+    "text": "‎⁧ה׳⁩ answers the ⁧תפלות⁩ of a ⁧צדיק⁩ quickly.",
+    "order": 34,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-035",
+    "text": "‎⁧בכל יום אברכך⁩ - We bless ⁧ה׳⁩ every day for health, food, sunshine, rain and everything he does for us.",
+    "order": 35,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-036",
+    "text": "‎⁧פותח את ידך⁩ - Should be said with concertation and great joy knowing that ⁧ה׳⁩ cares for every creature!!",
+    "order": 36,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-037",
+    "text": "‎⁧הללויה⁩ - With all types of instruments, we will constantly praise Hashem, like a ⁧כנור⁩.",
+    "order": 37,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-038",
+    "text": "‎⁧כל הנשמה תהלל⁩ - We praise ⁧ה׳⁩ with our ⁧נשמה⁩ which means with ⁧מצות⁩.",
+    "order": 38,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-039",
+    "text": "‎We end off saying the words ⁧כל הנשמה⁩ twice to tell us this is the main way to praise ⁧ה׳⁩ is with ⁧מצות⁩.",
+    "order": 39,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-040",
+    "text": "‎The first part is called ⁧ברכת השחר⁩ (compared to the ⁧הר הבית⁩).",
+    "order": 40,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-041",
+    "text": "‎The second part is called ⁧פסוקי דזמרה⁩ compared to the ⁧עזרה⁩. (⁧זמרה⁩ means to cut, we cut away our ⁧עבירות⁩ through saying these ⁧פסוקים⁩.)",
+    "order": 41,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-042",
+    "text": "‎The third part is ⁧קריאת שמע⁩ (compared to the⁧היכל⁩) The fourth part is ⁧שמונה עשרה⁩ compared to the ⁧קודש הקדשים⁩.",
+    "order": 42,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-043",
+    "text": "‎There are 15 different words of praise in the beginning and end of ⁧ישתבח⁩.",
+    "order": 43,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-044",
+    "text": "‎The ⁧רבנן⁩ picked 15, because the name of ⁧ה׳⁩ is equal to 15.",
+    "order": 44,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-045",
+    "text": "‎Another reason the ⁧רבנן⁩ chose 15, is to remind us of the 15 ⁧שיר המעלות⁩ that ⁧דוד המלך⁩ wrote.",
+    "order": 45,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-046",
+    "text": "‎⁧יוצר המאורות⁩ - Is the 1st ⁧ברכה⁩ we make before we say ⁧שמע⁩.",
+    "order": 46,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-047",
+    "text": "‎In the ⁧ברכה⁩ of ⁧יוצר המאורות⁩ we thank ⁧ה׳⁩ for making the sun so we can have light.",
+    "order": 47,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-048",
+    "text": "‎⁧אהבה רבה⁩ - Is the 2nd ⁧ברכה⁩ we make before we say ⁧שמע⁩. We beg '⁧ה⁩ that we should love learning ⁧תורה⁩ & love ⁧ה⁩’s ⁧מצות⁩.",
+    "order": 48,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-049",
+    "text": "‎⁧שמע ישראל⁩ - We accept that ⁧ה׳⁩ is King over us & we are his servants.",
+    "order": 49,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-050",
+    "text": "‎⁧ואהבת⁩ - We accept the ⁧מצוה⁩ to love Hashem.",
+    "order": 50,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-051",
+    "text": "‎⁧והיה אם שמוע⁩ - We accept the ⁧מצוות⁩ upon ourselves, if we do the ⁧מצות⁩ we will be rewarded!",
+    "order": 51,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-052",
+    "text": "‎⁧ויאמר ה׳⁩ - The ⁧מצוה⁩ of ⁧ציצית⁩ helps us remember all ⁧ה׳⁩ ’s ⁧מצוות⁩.",
+    "order": 52,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-053",
+    "text": "‎We should hold our ⁧ציצת⁩ in our left hand from the beginning of ⁧שמע⁩ until the last paragraph of ⁧שמע⁩.",
+    "order": 53,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-054",
+    "text": "‎When we reach ⁧ויאמר ה׳⁩ we place the ⁧ציצת⁩ in our right hand and kiss them when we say the word ⁧ציצת⁩. And when we say the ⁧אמת⁩!",
+    "order": 54,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-055",
+    "text": "‎⁧שמונה עשרה⁩ originally had 18 ⁧ברכות⁩ that is why it’s called ⁧שמונה עשרה⁩ even though now there are 19 ⁧ברכות⁩.",
+    "order": 55,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-056",
+    "text": "‎The⁧ברכה⁩ of⁧ולמלשינים⁩ was the 19th ⁧ברכה⁩ that was added because of the people that spoke bad about the Yidden.",
+    "order": 56,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-057",
+    "text": "‎⁧שמונה עשרה⁩ is divided into 3 parts: The first is praising Hashem!",
+    "order": 57,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-058",
+    "text": "‎The 2nd part of ⁧שמונה עשרה⁩ we are asking Hashem for many different things.",
+    "order": 58,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-059",
+    "text": "‎The 3rd last part of ⁧שמונה עשרה⁩ we are thanking ⁧ה׳⁩ for listing to us.",
+    "order": 59,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-060",
+    "text": "‎We start ⁧שמונה עשרה⁩ by taking 3 steps back. 1st step, we move our left foot back to the heel of our right foot. 2nd step, we move our right to the back of our left. 3rd step, we move our left next to the right. We then take 3 steps forward starting with the right foot to the toe of the left etc.",
+    "order": 60,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-061",
+    "text": "‎When saying⁧שמונה עשרה⁩ our feet have to be touching each other looking like one foot similar to the⁧מלאכים⁩ who praise Hashem.",
+    "order": 61,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-062",
+    "text": "‎In the beginning and end of the first ⁧ברכה⁩ we bend our knees by ⁧ברוך⁩, then we bend our back by the word ⁧אתה⁩ and straighten our back before we say ⁧ה׳⁩.",
+    "order": 62,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-063",
+    "text": "‎⁧אתה חונן⁩ - The 1st of the 13 requests. We ask ⁧ה׳⁩ to give us knowledge to understand things.",
+    "order": 63,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-064",
+    "text": "‎⁧תשובה⁩ - We ask Hashem to please make it easy for us to do ⁧תשובה⁩.",
+    "order": 64,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-065",
+    "text": "‎⁧סליחה⁩ - We ask Hashem to please forgive the ⁧עבירות⁩ we did.",
+    "order": 65,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-066",
+    "text": "‎⁧גאולה⁩ - We ask Hashem to please take us out of ⁧גלות⁩ and bring ⁧משיח⁩.",
+    "order": 66,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-067",
+    "text": "‎⁧רפואה⁩ - We ask Hashem to please heal all those that are sick. ⁧ה׳⁩ is the only doctor that can heal us.",
+    "order": 67,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-068",
+    "text": "‎⁧פרנסה⁩ - We ask Hashem to please give us the ⁧פרנסה⁩ (money) we need to help us live.",
+    "order": 68,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-069",
+    "text": "‎⁧גאולה⁩ - We ask Hashem please gather the Yidden from all over the world and bring us to ⁧ארץ ישראל⁩.",
+    "order": 69,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-070",
+    "text": "‎⁧השיבה שופטינו⁩ - Hashem please bring ⁧משיח⁩ and bring back the judges of ⁧סנהדרין⁩ like we had in the times of the ⁧בית המקדש⁩.",
+    "order": 70,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-071",
+    "text": "‎⁧ולמלשינים⁩ – This ⁧תפלה⁩ was written by ⁧שמואל הקטן⁩. We ask ⁧ה׳⁩ please destroy all those that say ⁧לשון הרע⁩ about us. (This ⁧תפלה⁩ was added later on)",
+    "order": 71,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-072",
+    "text": "‎⁧על הצדיקים⁩ - We ask Hashem please keep the ⁧צדיקים⁩ healthy because ⁧כלל ישראל⁩ needs them.",
+    "order": 72,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-073",
+    "text": "‎⁧ולירושלים עירך⁩ - Hashem please rebuild ⁧ירושלים⁩ like it was in the times of the ⁧בית המקדש⁩.",
+    "order": 73,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-074",
+    "text": "‎⁧את צמח דוד⁩ - Hashem please bring ⁧משיח⁩ who will come from ⁧דוד המלך⁩.",
+    "order": 74,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-075",
+    "text": "‎⁧שמע קלינו⁩ - Hashem please listen and accept all of our ⁧תפילות⁩.",
+    "order": 75,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-076",
+    "text": "‎⁧רצה⁩ - We start saying the final 3 ⁧ברכות⁩ of ⁧שמונה עשרה⁩, where we thank ⁧ה׳⁩ for listening to us.",
+    "order": 76,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-077",
+    "text": "‎⁧מודים⁩ - We thank ⁧ה׳⁩ for the many miracles he does for us daily.",
+    "order": 77,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-078",
+    "text": "‎⁧שים שלום⁩- The final ⁧ברכה⁩, we ask ⁧ה׳⁩ that there should be peace in the world and amongst everybody.",
+    "order": 78,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-079",
+    "text": "‎⁧אלוקי⁩ - Hashem please allow ourselves to be like dirt. (Rav Pam)",
+    "order": 79,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-080",
+    "text": "‎⁧אלוקי⁩ - Hashem please open our hearts to your ⁧תורה⁩ and ⁧מצות⁩!",
+    "order": 80,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-081",
+    "text": "‎Say a ⁧פסוק⁩ that begins and ends with the first and last letter of your name. In order to help us remember our name on the Day of Judgment.",
+    "order": 81,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-082",
+    "text": "‎⁧עושה שלום⁩ - We take 3 steps back like a slave who leaves his master. We first move our left foot back then our right and then the left! We move our left foot first to show that it’s hard for us to leave ⁧ה׳⁩!",
+    "order": 82,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-083",
+    "text": "‎By the words ⁧עושה שלום במרומיו⁩ we bow our head to the left. ⁧הוא יעשה שלום עלינו⁩ we bow to the right. ⁧ועל כל ישראל ואמרו אמן⁩ we bow straight.",
+    "order": 83,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-084",
+    "text": "‎Davening is in place of the ⁧קרבנות⁩ that we used to bring in the ⁧ב⁩\"⁧ה⁩. Therefore, we daven at the end of ⁧ש⁩\"⁧ע⁩ that ⁧ה׳⁩ should please rebuild the ⁧ב⁩\"⁧ה⁩ so we can bring ⁧קרבנות⁩ again!",
+    "order": 84,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-085",
+    "text": "‎We first bow to the left because since we are facing Hashem, it’s ⁧ה׳⁩ right. And the right is always more important.",
+    "order": 85,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-086",
+    "text": "‎⁧עלינו⁩ - Was written by ⁧יהושע⁩ when he brought the Yidden across the ⁧ירדן⁩ and into ⁧ארץ ישראל⁩.",
+    "order": 86,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-087",
+    "text": "‎The first and last letter of both paragraphs of ⁧עלינו⁩ start and end with \"⁧ע⁩\" and \"⁧ד⁩\" which means testimony. We are saying testimony that ⁧ה׳⁩ is the only G-O-D in the world.",
+    "order": 87,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-088",
+    "text": "‎(1) I believe that ⁧ה׳⁩ created and leads every creation in the world.",
+    "order": 88,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-089",
+    "text": "‎(2) I believe that ⁧ה׳⁩ is unique and there is nothing like him in the world.",
+    "order": 89,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-090",
+    "text": "‎(3) I believe that ⁧ה׳⁩ does not have a body or anything physical.",
+    "order": 90,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-091",
+    "text": "‎(4) I believe that ⁧ה׳⁩ is first and is last.",
+    "order": 91,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-092",
+    "text": "‎(5) I believe that we may only daven to ⁧ה׳⁩ and no one or anything else.",
+    "order": 92,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-093",
+    "text": "‎(6) I believe that all the words of the ⁧נביאים⁩ are 100% true.",
+    "order": 93,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-094",
+    "text": "‎(7) I believe that ⁧משה⁩ was the greatest ⁧נביא⁩ that ever was and will ever be.",
+    "order": 94,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-095",
+    "text": "‎(8) I believe that the ⁧תורה⁩ that we have now was the exact ⁧תורה⁩ that was given to ⁧משה⁩.",
+    "order": 95,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-096",
+    "text": "‎(9) I believe that the ⁧תורה⁩ that we have will never be switched.",
+    "order": 96,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-097",
+    "text": "‎(10) I believe that ⁧ה׳⁩ knows the thoughts and actions of every person in the world.",
+    "order": 97,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-098",
+    "text": "‎(11) I believe that ⁧ה׳⁩ rewards those who do ⁧מצות⁩ and punishes those who do ⁧עבירות⁩.",
+    "order": 98,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-099",
+    "text": "‎(12) I believe that I”yh ⁧משיח⁩ will come even though it’s been taking a long time.",
+    "order": 99,
+    "unlocked": false,
+    "archived": false
+  },
+  {
+    "id": "tefillah-fact-100",
+    "text": "‎(13) I believe that those who died will be brought back to life when ⁧משיח⁩ comes.",
+    "order": 100,
+    "unlocked": false,
+    "archived": false
+  }
+]
