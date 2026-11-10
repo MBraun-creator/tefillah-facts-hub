@@ -1,0 +1,22 @@
+from pathlib import Path
+p=Path("index.html")
+s=p.read_text(encoding="utf-8")
+if "/* FACT_MANAGEMENT_KEYWORDS_V1 */" in s: raise SystemExit(0)
+def change(a,b):
+ global s
+ assert s.count(a)==1, ("Expected exactly one match",a[:100],s.count(a))
+ s=s.replace(a,b,1)
+change("if(['home','facts','profiles','leaderboard','classProgress','settings','testing','ranks'].includes(a))","if(['home','facts','backendFacts','profiles','leaderboard','classProgress','settings','testing','ranks'].includes(a))")
+change("function factPreview(t){","/* FACT_MANAGEMENT_KEYWORDS_V1 */\nfunction factPreview(t){")
+change("function factGrid(archived=false){","function factGrid(archived=false){")
+change("${esc(factPreview(f.text))}</small>","${esc(f.keyword?.trim()||factPreview(f.text))}</small>")
+change("f.text.toLowerCase().includes(q)","(f.text+' '+(f.keyword||'')).toLowerCase().includes(q)")
+change("${button('Export Facts CSV','exportFactsCSV','')}${button('Settings','settings','secondary')}","${button('+ New Fact','newFact','')}${button('Facts Library','facts','secondary')}${button('Export Facts CSV','exportFactsCSV','')}${button('Settings','settings','secondary')}")
+change("${button('Edit','backendEdit:'+f.id,'secondary')}","${button('Edit','backendEdit:'+f.id,'secondary')}")
+change('<textarea id="backendEditText" dir="auto" rows="9">${esc(f.text)}</textarea></div><div class="actions">','<textarea id="backendEditText" dir="auto" rows="9">${esc(f.text)}</textarea></div><div class="field"><label>Grid keyword (leave blank to use automatic Hebrew preview)</label><input id="backendEditKeyword" value="${esc(f.keyword||\'\')}" dir="auto"></div><div class="actions">')
+change("f.text=v;save();modal=null;page='backendFacts';render();return","f.text=v;f.keyword=($('backendEditKeyword')?.value||'').trim();save();modal=null;page='backendFacts';render();return")
+change("if(a==='newFact'||a==='editFact'){","if(a==='newFact'||a==='editFact'){")
+change('<textarea id="editText" dir="auto">${esc(f?.text||\'\')}</textarea></div><div class="field"><label>Insert at position','<textarea id="editText" dir="auto">${esc(f?.text||\'\')}</textarea></div><div class="field"><label>Grid keyword (optional)</label><input id="editKeyword" dir="auto" value="${esc(f?.keyword||\'\')}"></div><div class="field"><label>Insert at position')
+change("else f.text=text;let arr=ordered()","else f.text=text;f.keyword=($('editKeyword')?.value||'').trim();let arr=ordered()")
+p.write_text(s,encoding="utf-8")
+print("Fact management and grid keywords patched")
