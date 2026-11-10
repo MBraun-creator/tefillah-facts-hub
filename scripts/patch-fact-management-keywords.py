@@ -20,3 +20,5 @@ change('<textarea id="editText" dir="auto">${esc(f?.text||\'\')}</textarea></div
 change("else f.text=text;let arr=ordered()","else f.text=text;f.keyword=($('editKeyword')?.value||'').trim();let arr=ordered()")
 p.write_text(s,encoding="utf-8")
 print("Fact management and grid keywords patched")
+
+# Trigger automated checked patch.
