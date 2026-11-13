@@ -7,3 +7,7 @@ for needle in ["'Remove'","\`Remove\`","Student Profiles","removeStudent","delet
   at=s.find(needle,start)
   print(repr(s[max(0,at-450):at+550]))
   start=at+len(needle)
+
+for needle in ["<h2>Students</h2>","Export Mastery Percentages CSV","if(page==='settings')"]:
+ at=s.find(needle)
+ print('DETAIL',needle,repr(s[max(0,at-300):at+1800]))
